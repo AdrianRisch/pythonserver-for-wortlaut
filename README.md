@@ -2,6 +2,11 @@
 
 Dieses Projekt bietet einen Web-Service zur Transkription von Audiodateien unter Verwendung des Faster Whisper-Modells. Es unterstützt auch die semantische Analyse und detaillierte Wort-für-Wort-Vergleiche zwischen erwartetem und transkribiertem Text.
 
+## Verwandte Projekte
+
+- Für das dazugehörige Frontend oder weitere Informationen, besuche [dieses Repository](<URL>).
+
+
 ## Features
 
 - Transkription von Audiodateien mit dem Faster Whisper-Modell.
