@@ -41,11 +41,7 @@ Starte den Server mit:
 ```bash
 python <server_fasterWhisper>.py
 ```
-##API-Endpunkte
+## API-Endpunkte
 
  -   POST /transcribe: Transkribiert die hochgeladene Audiodatei. Optionale Parameter für die Analyse können übermittelt werden (model_size, analysis_type, expected_text).
  -   GET /ping: Überprüft die Erreichbarkeit des Servers.
-
-#Nutzung
-
-Um eine Audiodatei zu transkribieren, sende eine POST-Anfrage an /transcribe mit der Audiodatei und optionalen Parametern im Formular.
