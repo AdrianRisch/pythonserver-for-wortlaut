@@ -19,9 +19,9 @@ Dieses Projekt bietet einen Web-Service zur Transkription von Audiodateien unter
 - Python 3.11.5 (nur damit getestet)
 - Flask
 - Flask-CORS
-- Spacy und ein deutsches Spacy-Modell (`de_core_news_md`)
+- Spacy und ein deutsches Spacy-Modell [(`de_core_news_md`)](https://spacy.io/models/de)
 - Torch
-- Faster Whisper
+- [Faster Whisper](https://github.com/SYSTRAN/faster-whisper)
 - FFmpeg: Für die Verarbeitung von Audiodateien ist FFmpeg notwendig. Die Installation von FFmpeg kann je nach Betriebssystem variieren. Besuche [FFmpeg.org](https://ffmpeg.org//) für Installationsanweisungen.
 
 ## Installation
