@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Configuration
-UPLOAD_FOLDER = 'temp_audio'
+UPLOAD_FOLDER = 'temp_audio' # You need to create thos folder
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # Determine the device to run the model on
