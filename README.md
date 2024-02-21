@@ -27,7 +27,7 @@ Dieses Projekt bietet einen Web-Service zur Transkription von Audiodateien unter
 ## Installation
 
 1. Klone dieses Repository.
-2. Installiere die erforderlichen Python-Pakete mit `pip install -r requirements.txt` (Stelle sicher, dass du eine `requirements.txt`-Datei mit allen Abhängigkeiten erstellst).
+2. Installiere die erforderlichen Python-Pakete mit `pip install -r requirements.txt`.
 3. Lade das Spacy-Modell mit `python -m spacy download de_core_news_md` herunter.
 
 ## Konfiguration
