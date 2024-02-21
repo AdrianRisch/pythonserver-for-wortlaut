@@ -4,7 +4,7 @@ Dieses Projekt bietet einen Web-Service zur Transkription von Audiodateien unter
 
 ## Verwandte Projekte
 
-- Für das dazugehörige Frontend oder weitere Informationen, besuche [dieses Repository](<URL>).
+- Für das dazugehörige Frontend oder weitere Informationen, besuche [dieses Repository](https://github.com/AdrianRisch/wortlaut-flutterapp).
 
 
 ## Features
