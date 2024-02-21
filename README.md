@@ -29,10 +29,14 @@ Dieses Projekt bietet einen Web-Service zur Transkription von Audiodateien unter
 1. Klone dieses Repository.
 2. Installiere die erforderlichen Python-Pakete mit `pip install -r requirements.txt`.
 3. Lade das Spacy-Modell mit `python -m spacy download de_core_news_md` herunter.
+4. Erstelle den Ordner **temp_audio**.
+5. Starte den Server mit: ```python <server_fasterWhisper>.py```
 
 ## Konfiguration
 
 Die Standardkonfiguration kann direkt im Code geändert werden. Das Upload-Verzeichnis und das Whisper-Modell (Größe) können in der Datei angepasst werden.
+Zur Auswahl stehen: "tiny","small","base","medium","large"
+Es empfiehlt sich vor dem 1. Nutzen alle benötigten Modelle mindestens einmal geladen zu haben.
 
 ## Ausführung
 
